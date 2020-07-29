@@ -1,27 +1,43 @@
-# Emailclient
+<h1 align="center">Welcome to emailclient 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/emailclient" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/emailclient.svg">
+  </a>
+  <a href="https://twitter.com/yashkalavadiya1" target="_blank">
+    <img alt="Twitter: yashkalavadiya1" src="https://img.shields.io/twitter/follow/yashkalavadiya1.svg?style=social" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
+> this is a email client in which you can send, receive, reply and view emails. your email id will be <your_username>@angular-email.com.
 
-## Development server
+## Install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```sh
+npm install
+```
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+npm run start
+```
 
-## Build
+## Run tests
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```sh
+npm run test
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 **Yash Kalavadiya**
 
-## Running end-to-end tests
+* Twitter: [@yashkalavadiya1](https://twitter.com/yashkalavadiya1)
+* Github: [@yash10102002](https://github.com/yash10102002)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Show your support
 
-## Further help
+Give a ⭐️ if this project helped you!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
