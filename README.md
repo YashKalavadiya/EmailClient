@@ -28,10 +28,10 @@ npm run start
 npm run test
 ```
 
-##Demo URL
-```sh
+## Demo URL
+
 https://emailclient-pi.vercel.app/
-```
+
 
 ## Author
 
